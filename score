@@ -1,0 +1,15 @@
+Python version: 2.7.6
+
+FirstName:
+LastName:
+Section: 023
+NetId: cma018
+
+FirstName: FirstName2
+LastName: LastName2
+Section: SectionNumber2
+NetId: NetId2
+
+Similarity score: 2.7
+Sequence alignment1: A-ACC
+Sequence alignment2: ACCCC
